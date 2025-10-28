@@ -1,0 +1,1 @@
+9999999999{"name": "snscrape", "version": "0.4.3.20220106", "summary": "A social networking service scraper", "platform": "", "requires_dist": ["requests[socks]", "lxml", "beautifulsoup4", "filelock", "pytz ; python_version < \"3.9.0\"", "coverage ; extra == 'test'"], "requires_python": "~=3.8", "files": [], "_cache_version": "1.0.0"}

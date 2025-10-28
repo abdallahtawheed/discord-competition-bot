@@ -1,0 +1,1 @@
+9999999999{"name": "aiohttp-socks", "version": "0.7.1", "summary": "Proxy connector for aiohttp", "platform": "", "requires_dist": ["aiohttp (>=2.3.2)", "attrs (>=19.2.0)", "python-socks[asyncio] (<3.0.0,>=2.0.0)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

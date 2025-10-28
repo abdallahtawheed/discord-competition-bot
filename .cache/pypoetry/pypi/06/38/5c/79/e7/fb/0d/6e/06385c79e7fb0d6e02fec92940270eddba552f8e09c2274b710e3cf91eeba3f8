@@ -1,0 +1,1 @@
+9999999999{"name": "elasticsearch", "version": "8.5.3", "summary": "Python client for Elasticsearch", "platform": null, "requires_dist": ["elastic-transport (<9,>=8)", "aiohttp (<4,>=3) ; extra == 'async'", "requests (<3.0.0,>=2.4.0) ; extra == 'requests'"], "requires_python": ">=3.6, <4", "files": [], "_cache_version": "1.0.0"}
